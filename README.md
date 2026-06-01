@@ -214,6 +214,9 @@ Next Best Offer
 AI Retention Assistant
 Generative AI Insights
 Author
+## Architecture
+
+![Customer Churn Prediction Architecture](customer_churn_prediction_architecture.png)
 
 Sara Sohrabi
 
